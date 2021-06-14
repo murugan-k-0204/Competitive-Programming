@@ -33,15 +33,11 @@ To find local Maximum
   to find the roots we use
   h = (-b +- sqrt(b*b - 4ac))/2a
   
-  Sorry guys soon i will complete the explaination.
-  i will edit later.
+  Sorry guys,
+  i will edit and complete it later.
   
   we get 
   h = (p + sqrt( p^2 - 24*s))/12
   
-  
-  so,
-  h = (
-  
-  
+
  

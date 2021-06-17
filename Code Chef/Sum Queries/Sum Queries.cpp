@@ -4,10 +4,7 @@ using namespace std;
 #define fast() ios_base::sync_with_stdio(false);cin.tie(NULL); cout.tie(NULL)
 #define debug(x) cout << #x << "=" << x << endl;
 #define debug2(x, y) cout << #x << "=" << x << "," << #y << "=" << y << endl;
-
-#define ll long long 
 #define endl "\n"
-#define mod 1000000007
 //----------Working---Platform-------//
 
 void solve(){
@@ -29,10 +26,9 @@ void solve(){
     
 }
 
-signed main(){
+int main(){
     fast();
-    ll t =1;
-    // cin>>t;
+    ll t =1;// cin>>t;
     while(t--){
         solve();
     }

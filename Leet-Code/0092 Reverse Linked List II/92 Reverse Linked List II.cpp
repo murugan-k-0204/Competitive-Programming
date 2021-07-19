@@ -1,3 +1,4 @@
+// This is the solution of find middle in the linkedlist
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
